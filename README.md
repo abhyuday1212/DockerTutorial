@@ -4,7 +4,7 @@
 
 This is Docker tutorial for You to understand the basic functioning of Dockerizing your full stack application and pulishing it to GitHub, So that anyone can download and use.
 
----
+-----
 
 # 1.0 Prequisite
 - Node version 21.1.0
